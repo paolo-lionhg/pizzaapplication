@@ -1,0 +1,541 @@
+fileFormatVersion: 2
+guid: 37d81ded31815984f885326880ea4448
+timeCreated: 1476642741
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: title
+    21300002: menu
+    21300004: pepperoni
+    21300006: onions
+    21300008: onions
+    21300010: sausage
+    21300012: tomatoes
+    21300014: total
+    21300016: warning
+    21300018: buttonholder
+    21300020: create
+    21300022: cancel
+    21300024: warningsub
+    21300026: save
+    21300028: pizzaselect
+    21300030: backtomenu
+    21300032: outofstock
+    21300034: peppers
+    21300036: subwarning
+    21300038: pizza_cheese
+    21300040: pizza_custom
+    21300042: pizza_vegetarian
+    21300044: pizza_pepperoni
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: title
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 895
+        width: 617
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90.5, y: 58.5}
+        - {x: -83.5, y: 16.5}
+        - {x: -98.5, y: -0.5}
+        - {x: -92.5, y: 6.5}
+        - {x: -88.5, y: 14.5}
+        - {x: -90.5, y: 27.5}
+        - {x: -101.5, y: 33.5}
+        - {x: -114.5, y: 33.5}
+        - {x: -178.5, y: 58.5}
+        - {x: -301.5, y: 58.5}
+        - {x: -308.5, y: 2.5}
+        - {x: -308.5, y: -58.5}
+        - {x: 308.5, y: -58.5}
+        - {x: 308.5, y: 32.5}
+        - {x: 285.5, y: 58.5}
+    - name: menu
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 948
+        width: 138
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: 27}
+        - {x: -69, y: -27}
+        - {x: 69, y: -27}
+        - {x: 69, y: 25}
+        - {x: 20, y: 27}
+    - name: peppers
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 862
+        width: 206
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 29.5}
+        - {x: -103, y: 29.5}
+        - {x: -103, y: -25.5}
+        - {x: -94, y: -29.5}
+        - {x: 97, y: -29.5}
+        - {x: 103, y: -25.5}
+        - {x: 103, y: 18.5}
+        - {x: 94, y: 25.5}
+    - name: pepperoni
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 803
+        width: 255
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127.5, y: 29.5}
+        - {x: -127.5, y: -25.5}
+        - {x: -123.5, y: -29.5}
+        - {x: 127.5, y: -29.5}
+        - {x: 127.5, y: 29.5}
+    - name: onions
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 804
+        width: 174
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -87, y: 27.5}
+        - {x: -87, y: -24.5}
+        - {x: -83, y: -27.5}
+        - {x: 87, y: -27.5}
+        - {x: 87, y: 27.5}
+    - name: total
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 789
+        width: 127
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.5, y: 27}
+        - {x: -63.5, y: -16}
+        - {x: -62.5, y: -27}
+        - {x: 63.5, y: -27}
+        - {x: 63.5, y: 27}
+    - name: sausage
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 719
+        width: 216
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 31}
+        - {x: -106, y: 31}
+        - {x: -108, y: 28}
+        - {x: -108, y: -18}
+        - {x: -107, y: -21}
+        - {x: -100, y: -31}
+        - {x: 108, y: -31}
+        - {x: 108, y: 19}
+        - {x: 106, y: 26}
+    - name: tomatoes
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 725
+        width: 247
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -123.5, y: 27.5}
+        - {x: -123.5, y: -27.5}
+        - {x: 123.5, y: -27.5}
+        - {x: 123.5, y: 18.5}
+        - {x: 121.5, y: 27.5}
+    - name: buttonholder
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 710
+        width: 257
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -124.5, y: 32.5}
+        - {x: -128.5, y: 30.5}
+        - {x: -128.5, y: -32.5}
+        - {x: 124.5, y: -32.5}
+        - {x: 128.5, y: -29.5}
+        - {x: 128.5, y: 27.5}
+        - {x: 124.5, y: 32.5}
+    - name: warning
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 577
+        width: 442
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -221, y: 49}
+        - {x: -221, y: 19}
+        - {x: -212, y: -49}
+        - {x: 61, y: -49}
+        - {x: 62, y: -48}
+        - {x: 62, y: 49}
+      - - {x: 62, y: 49}
+        - {x: 62, y: -49}
+        - {x: 221, y: -49}
+        - {x: 221, y: 48}
+        - {x: 219, y: 49}
+    - name: backtomenu
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 653
+        width: 226
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 17.5}
+        - {x: -113, y: 17.5}
+        - {x: -113, y: -17.5}
+        - {x: -28, y: -17.5}
+      - - {x: -28, y: 17.5}
+        - {x: -28, y: 3.5}
+        - {x: -23, y: -17.5}
+        - {x: 14, y: -17.5}
+        - {x: 17, y: -14.5}
+        - {x: 17, y: 17.5}
+      - - {x: 19, y: 17.5}
+        - {x: 19, y: -17.5}
+        - {x: 113, y: -17.5}
+        - {x: 113, y: 16.5}
+        - {x: 71, y: 17.5}
+    - name: cancel
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 652
+        width: 115
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.5, y: 18}
+        - {x: -57.5, y: -18}
+        - {x: 57.5, y: -18}
+        - {x: 57.5, y: 18}
+    - name: save
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 652
+        width: 80
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 18}
+        - {x: -40, y: -18}
+        - {x: 40, y: -18}
+        - {x: 40, y: 15}
+        - {x: 25, y: 18}
+    - name: outofstock
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 583
+        width: 294
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -147, y: 27.5}
+        - {x: -147, y: -27.5}
+        - {x: -59, y: -27.5}
+        - {x: -59, y: 17.5}
+        - {x: -66, y: 27.5}
+      - - {x: -57, y: 18.5}
+        - {x: -57, y: -24.5}
+        - {x: -53, y: -27.5}
+        - {x: -1, y: -27.5}
+        - {x: -1, y: 27.5}
+        - {x: -56, y: 27.5}
+      - - {x: 2, y: 27.5}
+        - {x: 2, y: -27.5}
+        - {x: 147, y: -27.5}
+        - {x: 147, y: 20.5}
+        - {x: 139, y: 27.5}
+    - name: subwarning
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 451
+        width: 677
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.5, y: -3}
+        - {x: -92.5, y: -3}
+        - {x: -92.5, y: -45}
+        - {x: 43.5, y: -45}
+        - {x: 51.5, y: -43}
+        - {x: 54.5, y: -37}
+        - {x: 55.5, y: -29}
+        - {x: 55.5, y: -9}
+      - - {x: -272.5, y: -9}
+        - {x: -272.5, y: -43}
+        - {x: -144.5, y: -43}
+        - {x: -143.5, y: -40}
+        - {x: -143.5, y: -10}
+        - {x: -148.5, y: -9}
+      - - {x: -138.5, y: -3}
+        - {x: -141.5, y: -9}
+        - {x: -141.5, y: -38}
+        - {x: -140.5, y: -43}
+        - {x: -94.5, y: -43}
+        - {x: -94.5, y: -3}
+      - - {x: 56.5, y: -3}
+        - {x: 56.5, y: -42}
+        - {x: 74.5, y: -43}
+        - {x: 152.5, y: -43}
+        - {x: 153.5, y: -37}
+        - {x: 153.5, y: -3}
+      - - {x: 154.5, y: -6}
+        - {x: 154.5, y: -43}
+        - {x: 193.5, y: -43}
+        - {x: 193.5, y: -15}
+        - {x: 187.5, y: -6}
+      - - {x: 199.5, y: -3}
+        - {x: 194.5, y: -5}
+        - {x: 194.5, y: -41}
+        - {x: 207.5, y: -43}
+        - {x: 263.5, y: -43}
+        - {x: 263.5, y: -8}
+        - {x: 255.5, y: -3}
+      - - {x: 329.5, y: -9}
+        - {x: 270.5, y: -9}
+        - {x: 265.5, y: -13}
+        - {x: 265.5, y: -36}
+        - {x: 266.5, y: -43}
+        - {x: 338.5, y: -43}
+        - {x: 338.5, y: -25}
+        - {x: 337.5, y: -15}
+      - - {x: -323.5, y: -3}
+        - {x: -338.5, y: -8}
+        - {x: -338.5, y: -42}
+        - {x: -274.5, y: -42}
+        - {x: -274.5, y: -3}
+      - - {x: -127.5, y: 45}
+        - {x: -216.5, y: 45}
+        - {x: -216.5, y: 6}
+        - {x: -151.5, y: 3}
+        - {x: -123.5, y: 3}
+        - {x: -117.5, y: 7}
+        - {x: -117.5, y: 44}
+      - - {x: 126.5, y: 45}
+        - {x: 103.5, y: 41}
+        - {x: 103.5, y: 5}
+        - {x: 119.5, y: 3}
+        - {x: 217.5, y: 3}
+        - {x: 217.5, y: 43}
+        - {x: 189.5, y: 45}
+      - - {x: -31.5, y: 45}
+        - {x: -114.5, y: 45}
+        - {x: -114.5, y: 7}
+        - {x: -28.5, y: 7}
+        - {x: -28.5, y: 44}
+      - - {x: -23.5, y: 45}
+        - {x: -29.5, y: 42}
+        - {x: -29.5, y: 19}
+        - {x: -25.5, y: 7}
+        - {x: 102.5, y: 7}
+        - {x: 102.5, y: 45}
+    - name: pizza_cheese
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 320
+        width: 353
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 176.5, y: 34}
+        - {x: -50.5, y: 36}
+        - {x: -67.5, y: 56}
+        - {x: -129.5, y: 56}
+        - {x: -164.5, y: 46}
+        - {x: -176.5, y: 27}
+        - {x: -176.5, y: -39}
+        - {x: -172.5, y: -56}
+        - {x: 130.5, y: -56}
+        - {x: 147.5, y: -53}
+        - {x: 176.5, y: -41}
+    - name: pizza_custom
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 315
+        width: 381
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98.5, y: 34.5}
+        - {x: 61.5, y: 57.5}
+        - {x: -7.5, y: 57.5}
+        - {x: -68.5, y: 31.5}
+        - {x: -87.5, y: 57.5}
+        - {x: -163.5, y: 57.5}
+        - {x: -190.5, y: 45.5}
+        - {x: -190.5, y: -40.5}
+        - {x: -170.5, y: -57.5}
+        - {x: 111.5, y: -57.5}
+        - {x: 190.5, y: -51.5}
+        - {x: 190.5, y: 32.5}
+        - {x: 188.5, y: 40.5}
+    - name: pizza_vegetarian
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 154
+        width: 563
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 272.5, y: 61.5}
+        - {x: 183.5, y: 73.5}
+        - {x: -41.5, y: 73.5}
+        - {x: -53.5, y: 67.5}
+        - {x: -120.5, y: 73.5}
+        - {x: -281.5, y: 73.5}
+        - {x: -281.5, y: -42.5}
+        - {x: -250.5, y: -63.5}
+        - {x: -173.5, y: -33.5}
+        - {x: -150.5, y: -35.5}
+        - {x: -145.5, y: -35.5}
+        - {x: -166.5, y: -34.5}
+        - {x: -173.5, y: -40.5}
+        - {x: -184.5, y: -53.5}
+        - {x: -160.5, y: -73.5}
+        - {x: -13.5, y: -73.5}
+        - {x: 132.5, y: -58.5}
+        - {x: 281.5, y: -27.5}
+        - {x: 281.5, y: 45.5}
+    - name: pizza_pepperoni
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 12
+        width: 514
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 257, y: 6.5}
+        - {x: 257, y: 67.5}
+        - {x: 251, y: 67.5}
+        - {x: 236, y: 64.5}
+        - {x: 172, y: 40.5}
+        - {x: 90, y: 58.5}
+        - {x: -59, y: 49.5}
+        - {x: -165, y: 65.5}
+        - {x: -169, y: 67.5}
+        - {x: -240, y: 67.5}
+        - {x: -257, y: 32.5}
+        - {x: -257, y: -65.5}
+        - {x: -217, y: -62.5}
+        - {x: -193, y: -67.5}
+        - {x: -38, y: -67.5}
+        - {x: -11, y: -53.5}
+        - {x: 224, y: -43.5}
+        - {x: 256, y: -1.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
